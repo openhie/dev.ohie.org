@@ -1,0 +1,27 @@
+body {
+	font-family: verdana,arial,sans-serif;
+	font-size: 10pt;
+	margin: 10px;
+	background-color: #FFFFFF;
+}
+
+a {
+	color: #cb8544;
+}
+
+h1 {
+	margin-top: 33px;
+}
+
+h1, h2, h3, h4, h5 {
+	color: #2b727c;
+}
+
+blockquote.code {
+        background: #eee;
+        padding: 1em;
+        margin: 0 2em;
+        border: 1px dashed black;
+	font-family: courier,monospace;
+}
+
