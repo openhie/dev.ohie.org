@@ -6,7 +6,7 @@ body {
 }
 
 a {
-	color: #cb8544;
+	color: #009fc8;
 }
 
 h1 {
@@ -14,7 +14,7 @@ h1 {
 }
 
 h1, h2, h3, h4, h5 {
-	color: #2b727c;
+	color: #38843F;
 }
 
 blockquote.code {
@@ -25,3 +25,10 @@ blockquote.code {
 	font-family: courier,monospace;
 }
 
+blockquote.disclaimer {
+        background: #eee;
+        padding: 1em;
+        padding-top: 0em;
+        #margin: 0 1em;
+        border: 2px solid red;
+}
